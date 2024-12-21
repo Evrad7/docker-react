@@ -25,6 +25,6 @@ jobs:
           application_name: Docker-react
           environment_name: Docker-react-env
           version_label: ${{ github.sha }}
-          existing_bucket_name: elasticbeanstalk-eu-west-3-767397743973
+          # existing_bucket_name: elasticbeanstalk-eu-west-3-767397743973
           region: eu-west-3
-          deployment-package: deploy.zip
+          deployment_package: deploy.zip
