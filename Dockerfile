@@ -14,4 +14,6 @@ RUN npm run build
 
 FROM nginx:alpine
 
+EXPOSE 80
+
 COPY --from=builder /front/build /usr/share/nginx/html
