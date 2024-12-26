@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Evrad doesn't learn react, he already nknow all, This is first pipeline CI/CD
+          Evrad doesn't learn react, he already nknow all, This is first pipeline CI/CD @7
         </a>
       </header>
     </div>
