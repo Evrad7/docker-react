@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Evrad doesn't learn react, he already nknow all, This is first pipeline CI/CD @7
+          Evrad doesn't learn react, he already nknow all, This is first pipeline CI/CD Donc dépuis l'erreur était parceque la memoire du serveur AWS était trop faible, j'ai change t3.mico an t3.small
         </a>
       </header>
     </div>
